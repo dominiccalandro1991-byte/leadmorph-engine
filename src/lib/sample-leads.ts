@@ -1,0 +1,12 @@
+export const SAMPLE_CSV = `name,title,company,email,phone,linkedin,industry,location,notes
+Amina Okonkwo,VP Revenue Operations,Northline Cloud,amina.okonkwo@northline.io,+1-415-555-0142,linkedin.com/in/aminaokonkwo,SaaS,San Francisco,Just opened an AE pod; complained about sequence sameness on a podcast.
+Marcus Hale,Director of Sales,HarborPay,marcus.hale@harborpay.com,+1-646-555-0198,linkedin.com/in/marcushale,Fintech,New York,Evaluating outbound vendors after a missed Q2 number.
+Priya Raman,Head of Growth,Kindred Clinics,priya.raman@kindredclinics.com,,linkedin.com/in/priyaraman,Healthcare,Austin,Hiring two SDRs; still sending one-to-many emails.
+Jonah Whitaker,CTO,Freightfold,jonah.whitaker@freightfold.com,+1-312-555-0117,linkedin.com/in/jwhitaker,Logistics,Chicago,Built an internal sequencer that reps refuse to use.
+Elena Voss,Founder & CEO,Lumenforge,elena@lumenforge.co,+1-206-555-0174,linkedin.com/in/elenavoss,Manufacturing,Seattle,Raised Series A; wants founder-led outbound that does not sound like a founder.
+Chris Delgado,Account Executive,Quilt Agency,chris.delgado@quilt.agency,+1-310-555-0129,,Marketing,Los Angeles,Peer motion — already drowning in templates.
+Sofia Berg,Chief People Officer,Vellum Capital,sofia.berg@vellum.cap,+1-617-555-0160,linkedin.com/in/sofiaberg,Fintech,Boston,Not a buyer; useful as a path into the partner team.
+Noah Kim,Senior Product Manager,Parcelite,noah.kim@parcelite.io,,,Logistics,Denver,Owns the customer onboarding workflow; complains about inbound quality.
+`;
+
+export const SAMPLE_FILENAME = "sample-roster.csv";
